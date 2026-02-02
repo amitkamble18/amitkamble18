@@ -1,89 +1,95 @@
-# 👋 Hi, I'm Amit Kamble
+👋 Hi, I'm Amit Kamble
+💻 BCA Student | Aspiring Software Developer | Azure Fundamentals Certified
 
-### 💻 Aspiring Software Developer | IT Enthusiast | Problem Solver
+Welcome to my GitHub profile! I’m a motivated Bachelor of Computer Applications (BCA) student with a strong interest in software development, cloud fundamentals, and building practical, user-focused applications.
 
-Welcome to my GitHub profile! I'm passionate about building practical, user‑friendly applications and continuously improving my skills in software development and IT technologies.
+🚀 About Me
 
----
+🎓 Bachelor of Computer Applications (BCA) Student
 
-## 🚀 About Me
+☁️ Microsoft Azure Fundamentals (AZ-900) Certified
 
-* 🎓 Background in **Information Technology / Computer Science**
-* 🌱 Currently learning and improving my skills in **Full-Stack Web Development**
-* 🧠 Strong interest in **problem-solving, system design, and cloud technologies**
-* ☁️ Microsoft **Azure Fundamentals (AZ-900) Certified**
-* 🛠️ Love working on real-world projects that improve user experience
-* 🎯 Goal: To secure a challenging role in the IT industry and grow as a professional developer
+🌱 Actively learning Full-Stack Web Development
 
----
+🧠 Interested in problem-solving, system design, and cloud technologies
 
-## 🛠️ Technical Skills
+🛠️ Enjoy building real-world projects with clean UI and logical backend flow
 
-**Languages:**
+🎯 Goal: To start my career in the IT industry and grow as a skilled software professional
 
-* HTML5, CSS3, JavaScript
-* SQL
+🛠️ Technical Skills
 
-**Web Development:**
+Programming & Markup Languages
 
-* Responsive Web Design
-* DOM Manipulation
-* Basic Backend Integration
+HTML5
 
-**Database:**
+CSS3
 
-* MySQL
+JavaScript
 
-**Tools & Platforms:**
+SQL
 
-* Git & GitHub
-* VS Code
-* Browser Developer Tools
+Web Development
 
-**Core Concepts:**
+Responsive Web Design
 
-* Data Structures & Basics of Algorithms
-* DBMS Fundamentals
-* Operating Systems (Basics)
-* Cloud & Azure Fundamentals
+DOM Manipulation
 
----
+Client-side Logic
 
-## 📂 Projects
+Basic Backend Integration
 
-### 🎬 Movie Ticket Booking Website
+Database
 
-* Built using **HTML, CSS, JavaScript, and MySQL**
-* Features seat selection, price calculation, and booking logic
-* Focused on clean UI and smooth user interaction
+MySQL
 
-*(More projects coming soon — stay tuned!)*
+Cloud & Concepts
 
----
+Azure Fundamentals (AZ-900)
 
-## 📈 What I'm Currently Working On
+Basics of Cloud Computing
 
-* Strengthening **JavaScript & SQL** concepts
-* Improving **problem‑solving for placements**
-* Learning **cloud services and deployment basics**
-* Building portfolio‑ready web projects
+DBMS Fundamentals
 
----
+Operating Systems (Basics)
 
-## 🤝 Let's Connect
+Data Structures & Algorithms (Basics)
 
-* 💼 GitHub: You're already here 🙂
-* 📧 Email: *(Add your professional email here)*
-* 🔗 LinkedIn: *(Add your LinkedIn profile link here)*
+Tools
 
----
+Git & GitHub
 
-## ⭐ GitHub Stats
+Visual Studio Code
 
-*(Optional – You can add GitHub stats cards here later)*
+Browser Developer Tools
 
----
+📂 Projects
+🎬 Movie Ticket Booking Website
 
-### ✨ Thank you for visiting my profile!
+Developed using HTML, CSS, JavaScript, and MySQL
 
-Feel free to explore my repositories and connect with me. I'm always open to learning, collaboration, and new opportunities.
+Features include seat selection, seat availability, and price calculation
+
+Focused on user-friendly UI and smooth booking experience
+
+(More projects coming soon)
+
+📈 Currently Working On
+
+Strengthening JavaScript and SQL
+
+Improving problem-solving skills for placements
+
+Learning Azure services and cloud deployment basics
+
+Building portfolio-ready full-stack projects
+
+🤝 Let's Connect
+
+📧 Email: amitkamble5757@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/amit-kamble-b43489292/
+
+✨ Thanks for visiting!
+
+Feel free to explore my repositories. I’m always open to learning, collaboration, and new opportunities.
