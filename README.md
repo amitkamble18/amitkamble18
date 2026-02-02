@@ -1,9 +1,8 @@
-
 # 👋 Hi, I'm Amit Kamble
 
 ### 💻 Aspiring Software Developer | IT Enthusiast | Problem Solver
 
-Welcome to my GitHub profile! I'm passionate about building practical, user-friendly applications and continuously improving my skills in software development and IT technologies.
+Welcome to my GitHub profile! I'm passionate about building practical, user‑friendly applications and continuously improving my skills in software development and IT technologies.
 
 ---
 
@@ -11,7 +10,8 @@ Welcome to my GitHub profile! I'm passionate about building practical, user-frie
 
 * 🎓 Background in **Information Technology / Computer Science**
 * 🌱 Currently learning and improving my skills in **Full-Stack Web Development**
-* 🧠 Strong interest in **problem-solving, system design, and cloud fundamentals**
+* 🧠 Strong interest in **problem-solving, system design, and cloud technologies**
+* ☁️ Microsoft **Azure Fundamentals (AZ-900) Certified**
 * 🛠️ Love working on real-world projects that improve user experience
 * 🎯 Goal: To secure a challenging role in the IT industry and grow as a professional developer
 
@@ -64,9 +64,9 @@ Welcome to my GitHub profile! I'm passionate about building practical, user-frie
 ## 📈 What I'm Currently Working On
 
 * Strengthening **JavaScript & SQL** concepts
-* Improving **problem-solving for placements**
+* Improving **problem‑solving for placements**
 * Learning **cloud services and deployment basics**
-* Building portfolio-ready web projects
+* Building portfolio‑ready web projects
 
 ---
 
